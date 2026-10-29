@@ -14,7 +14,6 @@ import basic.zKernel.IKernelConfigSectionEntryZZZ;
 import basic.zKernel.IKernelZZZ;
 import basic.zKernel.net.client.IApplicationZZZ;
 import basic.zKernel.net.client.IMainZZZ;
-import custom.zKernel.LogZZZ;
 import use.zKernel.html.step01.writer.KernelWriterHtmlByXsltZZZ;
 import use.zKernel.html.step01.writer.TableHeadZZZ;
 import use.zKernel.html.step02.reader.Debug02_ReaderHtmlTableZZZ;
